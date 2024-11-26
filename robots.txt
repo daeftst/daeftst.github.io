@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://daeftst.github.io/sitemap.xml
+Sitemap: https://niclasdern.com/sitemap.xml
