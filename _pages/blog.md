@@ -27,6 +27,10 @@ pagination:
     <h1>{{ site.blog_name }}</h1>
     <h2>{{ site.blog_description }}</h2>
   </div>
+
+  <br>
+
+  <p style="font-size:1.5rem"> I enjoy writing. I might share some of it here. </p>
   {% endif %}
 
 {% if site.display_tags and site.display_tags.size > 0 or site.display_categories and site.display_categories.size > 0 %}

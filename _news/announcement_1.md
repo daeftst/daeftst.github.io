@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-10-21 23:59
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+**New preprint online:** [Theoretical Limitations of Ensembles in the Age of Overparameterization](https://arxiv.org/abs/2410.16201). We show that ensembles of overparameterized models behave similarly to single, larger models.
