@@ -29,8 +29,6 @@ pagination:
   </div>
 
   <br>
-
-  <p style="font-size:1.5rem"> I enjoy writing. I might share some of it here. </p>
   
   <p style="font-size:1.2rem"> You can also find my writing on <a href="https://substack.com/@niclasdern" target="_blank">Substack</a>. </p>
   {% endif %}

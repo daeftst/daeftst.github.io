@@ -5,7 +5,7 @@ date: 2025-08-24 12:00:00
 description: Why and how I'm changing my AI use to be more intentional
 tags: ai productivity reflection
 categories: blog
-featured: true
+featured: false
 ---
 
 I have been using AI extensively in recent months. I use it to help me write text, develop code, create designs for presentations and posters, and more generally, to answer all kinds of questions about the world around me. I rely on it especially often when I am uncertain about how to approach a task or when I lack energy.
