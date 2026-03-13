@@ -4,10 +4,10 @@ permalink: /blog/
 title: blog
 nav: true
 nav_order: 1
-external_url: https://substack.com/@niclasdern
+external_url: https://niclasdern.substack.com/
 ---
 
-<script>window.location.href = "https://substack.com/@niclasdern";</script>
+<script>window.location.href = "https://niclasdern.substack.com/";</script>
 
 <div class="post">
   <div class="header-bar">
@@ -15,7 +15,7 @@ external_url: https://substack.com/@niclasdern
   </div>
   <br>
   <p style="font-size:1.2rem">
-    My blog has moved to <a href="https://substack.com/@niclasdern">Substack</a>.
+    My blog has moved to <a href="https://niclasdern.substack.com/">Substack</a>.
     You should be redirected automatically.
   </p>
 </div>
